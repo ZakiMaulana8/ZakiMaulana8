@@ -1,5 +1,6 @@
 ## Hello there! I'm Zaki Maulana 👋
 
+![Zaki Maulana](img/github-header-banner.png)
 <!--
 **ZakiMaulana8/ZakiMaulana8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
