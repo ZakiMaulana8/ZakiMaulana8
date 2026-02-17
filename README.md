@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello there! I'm Zaki Maulana 👋
 
 <!--
 **ZakiMaulana8/ZakiMaulana8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently Studying on **SMKN 1 Boyolangu**
+- 🌱 I’m currently learning [**Next JS**](https://nextjs.org) and [**TypeScript**](https://www.typescriptlang.org) Framework
