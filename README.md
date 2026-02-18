@@ -1,4 +1,3 @@
-## Hey there!👋
 
 ![Zaki Maulana](img/github-header-banner.png)
 
@@ -17,14 +16,23 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#### About Me
+###
 
-- 🔭 I’m currently Studying on **SMKN 1 Boyolangu**
-- 🌱 I’m currently learning [**Next JS**](https://nextjs.org) and [**TypeScript**](https://www.typescriptlang.org) Framework
+<br clear="both">
 
-#### Skills
+<img src="https://raw.githubusercontent.com/ZakiMaulana8/ZakiMaulana8/output/snake.svg" alt="Snake animation" />
 
-<p align="center">
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=ZakiMaulana8&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
+
+#### My Skills
+
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=javascript,typescript,php,mysql,tailwind,nextjs,react,html" />
   </a>
@@ -39,22 +47,3 @@ Here are some ideas to get you started:
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=ZakiMaulana8&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/ZakiMaulana8/ZakiMaulana8/output/snake.svg" alt="Snake animation" />
-
-###
