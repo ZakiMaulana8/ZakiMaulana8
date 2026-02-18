@@ -1,6 +1,7 @@
 ## Hey there!👋
 
 ![Zaki Maulana](img/github-header-banner.png)
+
 <!--
 **ZakiMaulana8/ZakiMaulana8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +16,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 #### About Me
+
 - 🔭 I’m currently Studying on **SMKN 1 Boyolangu**
 - 🌱 I’m currently learning [**Next JS**](https://nextjs.org) and [**TypeScript**](https://www.typescriptlang.org) Framework
 
@@ -28,6 +31,7 @@ Here are some ideas to get you started:
 </p>
 
 #### Contact Me
+
   <a href="https://www.instagram.com/zkiiln/">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
