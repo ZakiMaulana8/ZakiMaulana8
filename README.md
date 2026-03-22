@@ -1,7 +1,6 @@
 #
 #### Hi, I'm Zaki Maulana Ayubi! 📝
 
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=28&color=2B39FF&pause=1000&center=true&vCenter=true&width=400&lines=Software+Engineering;Tech+Enthusiast;UI/UX+Designer;" alt="Typing SVG">
 </p>
