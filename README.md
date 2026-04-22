@@ -4,6 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=28&color=2B39FF&pause=1000&center=true&vCenter=true&width=400&lines=Software+Engineering;Tech+Enthusiast;UI/UX+Designer;" alt="Typing SVG">
 </p>
 
+
 <img src="https://raw.githubusercontent.com/ZakiMaulana8/ZakiMaulana8/output/snake.svg" alt="Snake animation" />
 
 ###
