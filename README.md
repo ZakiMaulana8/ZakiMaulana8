@@ -5,7 +5,6 @@
 </p>
 
 <img src="https://raw.githubusercontent.com/ZakiMaulana8/ZakiMaulana8/output/snake.svg" alt="Snake animation" />
-
 ###
 
 <div align="center">
